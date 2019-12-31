@@ -1,4 +1,3 @@
-Parrot Os bash for ubuntu 
+***Replace***
 
-replace the 
     .bashrc into your profile
